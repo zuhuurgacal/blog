@@ -10,6 +10,7 @@
     align-items: center;
     padding: 20px 50px;
     background-color: #f0dfc5;
+    color: red;
 }
 .header ul{
     font-size: 25px;
